@@ -15,7 +15,7 @@
       align-items: center;
     }
     .swiper-slide img{
-      width: 100%;
+      width: 58%;
       object-fit: cover;
     }
     .swiper-button-next, .swiper-rtl .swiper-button-prev{
